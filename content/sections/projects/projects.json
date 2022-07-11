@@ -2,57 +2,98 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "MDS Library Documentation Site",
+      "description": "Gatsby site for Masala Design system components library documentation.",
+      "tags": ["Gatsby", "GraphQL", "React", "Markdown"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/HomeBanner.webp",
+        "alt": "MDS Docs",
+        "linkTo": "https://design.innovaccer.com/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/innovaccer/design-system/tree/master/docs"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url":  "https://design.innovaccer.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "Masala Design System (Innovaccer)",
+      "description": "Masala Design System (MDS) is an open-source design system built at Innovaccer. This is a simple and customizable component library to build faster, beautiful, and more accessible React applications on the guidelines and principles of Masala Design System.",
+      "tags": ["Typescript", "React", "Storybook", "BEM"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/masala-design-system.png",
+        "alt": "Masala Design System"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/innovaccer/design-system"
+        },
+        {
+          "type": "external",
+          "url": "https://mds.innovaccer.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUTttt",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "XpertiseNow",
+      "description": "An online platform that deliver consulting services to companies through an expert marketplace.",
+      "tags": ["React", "Redux", "Node JS", "Material-UI", "Salesforce Lightning", "Wordpress"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/xpertisenow.png",
+        "alt": "XpertiseNow"
       },
       "links": [
         {
+          "type": "external",
+          "url": "https://www.xpertisenow.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Rich Text Editor",
+      "description": "A Wysiwyg rich text editor build on top of facebook’s DraftJS and ReactJS.",
+      "tags": ["React JS", "Draft JS", "Storybook"],
+      "image": {
+        "src": "../../images/wysiwyg1.png",
+        "alt": "Rich Text Editor"
+      },
+      "links": [  
+        {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/innovaccer/mds-rich-text-editor"
+        },
+        {
+          "type": "external",
+          "url": "https://innovaccer.github.io/mds-rich-text-editor/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Full Stack Blogger App",
+      "description": "A full-stack blogging platform which provides you with the functionality to login, signup & CRUD operations on new blogs.",
+      "tags": ["React JS", "Node JS", "Express", "MongoDB", "Docker"],
+      "image": {
+        "src": "../../images/blogger.png",
+        "alt": "Full stack app"
+      },
+      "links": [  
+        {
+          "type": "github",
+          "url": "https://github.com/anuradha9712/fullstack-blogger-app"
+        },
+        {
+          "type": "external",
+          "url": "https://fullstack-blogging.herokuapp.com/"
         }
       ]
     }
@@ -60,6 +101,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/anuradha9712"
   }
 }

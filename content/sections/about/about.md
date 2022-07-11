@@ -1,14 +1,20 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/blogger.png"
+imageAlt: "Anuradha Aggarwal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello! My name is Anuradha Aggarwal. I'm from New Delhi. I have completed my **Masters in Computer Science** from University of Delhi in year 2020 and now working as a **Software Engineer** from the last **2 years**. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I like to explore new technologies, problem-solving, build projects 👩‍💻, and have a keen interest in web development & writing blogs ✍.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Here are a few technologies I've been working with:
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+- **Web:** HTML, CSS, Bootstrap, Javascript
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+- **Libraries:** React, Redux
+- **Testing:** Jest, React Testing Library, Cypress
+- **Frameworks:** Gatsby, Express
+- **Version Control:** Git
+- **Backend:** Node JS, MongoDB, MySQL
+- **Others:** TypeScript, Storybook, Salesforce Lightning
+- **Tech Stack:** MERN STACK
